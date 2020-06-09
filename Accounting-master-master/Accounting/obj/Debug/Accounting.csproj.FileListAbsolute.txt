@@ -1,0 +1,11 @@
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\bin\Debug\Accounting.exe
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\bin\Debug\Accounting.pdb
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.csprojAssemblyReference.cache
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.Form1.resources
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.Form2.resources
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.csproj.GenerateResource.cache
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.exe
+C:\Users\a2000\OneDrive\桌面\Accounting-master-master\Accounting\obj\Debug\Accounting.pdb
